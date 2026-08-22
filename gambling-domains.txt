@@ -684,6 +684,7 @@ api.public.cashcage.com.au
 api.public.teambet.com.au
 api.public.wizbet.com.au
 apostatudo.vip
+app-forbet.com
 app.c3v9b8.com
 app8855.cc
 aquaspins.com

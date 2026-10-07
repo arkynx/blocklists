@@ -929,6 +929,7 @@ be505.live
 bearbet.com.au
 bearjl.asia
 bearjl.bar
+bearjl.blog
 bearjl.club
 bearjl.icu
 bearjl.info

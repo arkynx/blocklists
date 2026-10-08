@@ -947,6 +947,7 @@ bearjl.one
 bearjl.onl
 bearjl.ph
 bearjl.sbs
+bearjl.skin
 bearjl.top
 bearjl.vip
 bearjl.xin
@@ -992,6 +993,7 @@ betbtb.com
 betbuffoon71.com
 betbuffoon91.com
 betcrown.co.uk
+betdagalera.com
 betdragon.au
 betfaro.com
 betfox.com.gh

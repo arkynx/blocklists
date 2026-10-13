@@ -1826,6 +1826,7 @@ gstar.ph
 gt-circopg.com
 gtoarcade.com
 gtspins.com
+gtspins1.com
 gtwin.app
 gtwin32.com
 gtwin45.com

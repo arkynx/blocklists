@@ -964,6 +964,7 @@ bearjl.asia
 bearjl.bar
 bearjl.blog
 bearjl.club
+bearjl.fit
 bearjl.icu
 bearjl.info
 bearjl.live

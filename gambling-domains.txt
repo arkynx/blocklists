@@ -937,6 +937,7 @@ api.public.betvista.com.au
 api.public.cashcage.com.au
 api.public.teambet.com.au
 api.public.wizbet.com.au
+apklucky777.shop
 apostamos.net
 apostatudo.vip
 app-forbet.com
